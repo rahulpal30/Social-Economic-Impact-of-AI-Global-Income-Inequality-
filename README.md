@@ -5,7 +5,7 @@
 
 ### 📄 Description
 
-This repository contains the final project report developed by Group 18, examining the multifaceted impact of Artificial Intelligence (AI) on income inequality across global economies. The report investigates how AI adoption influences social and economic structures, with a specific focus on income disparities between and within nations.
+This repository contains the final project report developed by team of 5 members, examining the multifaceted impact of Artificial Intelligence (AI) on income inequality across global economies. The report investigates how AI adoption influences social and economic structures, with a specific focus on income disparities between and within nations.
 
 ### 🧠 Key Topics Explored
 
